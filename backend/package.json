@@ -1,0 +1,27 @@
+{
+  "name": "express-js-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial on express.js",
+  "keywords": [
+    "express",
+    "js",
+    "tutorial",
+    "backend",
+    "node"
+  ],
+  "homepage": "https://github.com/DavidOG03/Express-js-tut#readme",
+  "bugs": {
+    "url": "https://github.com/DavidOG03/Express-js-tut/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidOG03/Express-js-tut.git"
+  },
+  "license": "ISC",
+  "author": "DavidOG",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
